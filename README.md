@@ -16,5 +16,5 @@ A simple HTML form validated using JavaScript regular expressions.
 3. Run the HTML file using live server
 
 ## Contributing
-I'm open to any contrition
+I'm open to contributions. Though I recently discovered that only repos with a future would get contributions 😂
 
